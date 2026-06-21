@@ -53,16 +53,17 @@ heating
 issue
 ________________________________________
 4. Recommendations
-For Apple
-1.	Improve battery optimization for heavy users.
-2.	Increase charging speed to better compete with flagship Android devices.
-3.	Continue investing in camera innovation, which remains the most appreciated feature.
-4.	Introduce more visible feature upgrades to strengthen upgrade incentives for existing iPhone users.
-For Flipkart
-1.	Highlight camera quality and performance in marketing campaigns, as these are the strongest customer satisfaction drivers.
-2.	Showcase verified customer images and reviews to improve buyer confidence.
-3.	Promote exchange offers and EMI options to address price sensitivity.
-4.	Use highly rated customer testimonials in product promotions and advertisements.
+   For Apple
+   1.	Improve battery optimization for heavy users.
+   2.	Increase charging speed to better compete with flagship Android devices.
+   3.	Continue investing in camera innovation, which remains the most appreciated feature.
+   4.	Introduce more visible feature upgrades to strengthen upgrade incentives for existing iPhone users.
+   
+   For Flipkart
+   1.	Highlight camera quality and performance in marketing campaigns, as these are the strongest customer satisfaction drivers.
+   2.	Showcase verified customer images and reviews to improve buyer confidence.
+   3.	Promote exchange offers and EMI options to address price sensitivity.
+   4.	Use highly rated customer testimonials in product promotions and advertisements.
 ________________________________________
 Conclusion
 The sentiment analysis indicates that the Apple iPhone 15 (128GB) is highly regarded by customers, with overwhelmingly positive feedback driven by camera quality, performance, design, and user experience. While a few concerns exist regarding battery life, charging speed, and pricing, overall customer satisfaction remains exceptionally high. The findings suggest strong market acceptance of the product and provide actionable insights for both Apple and Flipkart to further enhance customer experience and marketing effectiveness.
